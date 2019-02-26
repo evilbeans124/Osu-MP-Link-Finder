@@ -24,7 +24,7 @@ The command prompt should return two lines detailing your python version. Close 
     
 After that, traverse to the directory of the script and run the program
 
-    cd C:\Users\YOUR NAME\FILEPATH
+    cd C:\Users\YOUR NAME\FILEPATH TO SCRIPT
     python f.py
 
 Usage Guide
