@@ -38,6 +38,7 @@ def mainLoop(key, start, players):
             print(f'No results found in last 500 links. Total counted so far: {count}.')
             tempCount = 0
 
+key = input("API Key? ")
 start = input("MP Link ID to start search from? ")
 players = []
 counter = 0
@@ -49,6 +50,5 @@ while True:
     elif not player_id:
         break
     players.append(player_id)
-key = input("API Key? ")
 
 mainLoop(key, start, players)
