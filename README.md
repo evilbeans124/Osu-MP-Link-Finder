@@ -15,10 +15,15 @@ variables windows, press New, and paste the address in.
 **Step 3**
 
 As a confirmation, go to command prompt and type
+
     >>> python
+    
 The command prompt should return two lines detailing your python version. Close and reopen the command prompt. Then, type
+
     >>> python -m pip install requests bs4 ratelimit
+    
 After that, traverse to the directory of the script and run the program
+
     >>> cd C:\Users\YOUR NAME\FILEPATH
     >>> python f.py
 
