@@ -8,7 +8,7 @@ Download and install the latest python version at https://www.python.org/downloa
 **Step 2**
 
 After installation, search for Edit the system environmental variables. Click on the Environment Variables button.
-Then find PATH in the system variables, and press edit. Then, find the location of your python file by going to
+Find the PATH variable in the system variables section, and press edit. Then, find the location of your python file by going to
 C:\Users\YOUR NAME\AppData\Local\Programs\Python\YOUR PYTHON VERSION. Copy the location, go back to the edit environment
 variables windows, press New, and paste the address in.
 
